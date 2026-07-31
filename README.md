@@ -1,4 +1,6 @@
 # Sandboxels
+
+! IN DIDNT MAKE SANDBOXELS. I ONLY COPIED IT!!!
 A falling sand simulation game with hundreds of elements, heat simulation, chemical reactions, fire, density, electricity, and more.
 
 Play for free at [Sandboxels.R74n.com](https://sandboxels.r74n.com/).
